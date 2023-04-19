@@ -17,8 +17,8 @@ This project is the solution for [Frontend Mentor Stats Preview Card Component c
 
 ### Screenshot
 
-![](/images/Screenshot from 2023-04-19-desktop.png)
-![](/images/Screenshot from 2023-04-19-mobile.png)
+![](/images/Screenshotfrom2023-04-19-desktop.png)
+![](/images/Screenshotfrom2023-04-19-mobile.png)
 
 ### Links
 
